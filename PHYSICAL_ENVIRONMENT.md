@@ -6,10 +6,10 @@ physical environments
 - [I2369VM](https://eu.aoc.com/en/monitors/i2369vm)
 
 ## Keyboards
-- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/) ⭐
-- [Happy Hacking Keyboard](https://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/)
+- [Corne Keyboard](https://github.com/foostan/crkbd) ⭐
 - Ergodash mini
-- Viterbi
+- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
+- [Happy Hacking Keyboard](https://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/)
 
 ## Laptops
 - Thinkpad X1 Carbon 6th Gen
@@ -17,5 +17,4 @@ physical environments
 - Surface Go
 
 ## Cell Phones
-- Pixel3a
-- iPhone7
+- Pixel6
